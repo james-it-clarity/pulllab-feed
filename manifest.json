@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "publishedUtc": "2026-09-07T08:43:29Z",
+  "publishedUtc": "2026-09-07T09:06:26Z",
   "releases": {
     "default": {
       "version": "1.11.0",
-      "artifactUrl": "https://example.com/PullLab.Agent-1.11.0.zip",
+      "artifactUrl": "https://github.com/james-it-clarity/pulllab-feed/releases/download/v1.11.0/PullLab.Agent-1.11.0.zip",
       "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
     }
   }
