@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "publishedUtc": "2026-09-07T08:29:50Z",
+  "publishedUtc": "2026-09-07T08:37:59Z",
   "releases": {
     "default": {
-      "version": "1.9.0",
-      "artifactUrl": "https://github.com/james-it-clarity/pulllab-feed/releases/download/v1.9.0/PullLab.Agent-1.9.0.zip",
-      "sha256": "b7695c54a96ea65139a3a69d6a9ef4314ea787287b669ac2607db02d266cf697"
+      "version": "1.10.0",
+      "artifactUrl": "https://github.com/james-it-clarity/pulllab-feed/releases/download/v1.10.0/PullLab.Agent-1.10.0.zip",
+      "sha256": "8b50217345f24b0d19269e89a65e4000f12f6c3d4d36f2cd4a2d9f880902f4c2"
     }
   }
 }
